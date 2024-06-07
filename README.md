@@ -5,7 +5,7 @@
  Step 1: [Sign Up](https://console.initializ.ai/register/)<br>
  Step 2: Verify Your Email<br>
  Step 3: [Sign In](https://console.initializ.ai/login/)<br>
- Step 4: [Diploy on Initializ](http://localhost:3000/create-app/?clone=https://github.com/initializ-templates/Developer-portfolio-template&repo_name=Developer-portfolio-template&description=♾️%20customizable%20Developer%20Portfolio%20Template&github=true)
+ Step 4: [Diploy on Initializ](https://console.initializ.ai/create-app/?clone=https://github.com/initializ-templates/Developer-portfolio-template&repo_name=Developer-portfolio-template&description=♾️%20customizable%20Developer%20Portfolio%20Template&github=true)
 
 
 ## How To Use 
