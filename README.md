@@ -1,5 +1,5 @@
 # Try on Initializ
-[![Kubeday India](https://res.cloudinary.com/daosik5yi/image/upload/f_auto,q_auto/pntsnjpa1sxbc2d02q9n)](http://localhost:3000/create-app/?clone=https://github.com/initializ-templates/Developer-portfolio-template&repo_name=Developer-portfolio-template&description=♾️%20customizable%20Developer%20Portfolio%20Template&github=true)
+[![Kubeday India](https://res.cloudinary.com/daosik5yi/image/upload/f_auto,q_auto/pntsnjpa1sxbc2d02q9n)](http://console.dev.initilaiz.ai/create-app/?clone=https://github.com/initializ-templates/Developer-portfolio-template&repo_name=Developer-portfolio-template&description=♾️%20customizable%20Developer%20Portfolio%20Template&github=true)
 
 # Prerequisite 
 Must have an Account on [Initializ.ai](https://console.initializ.ai/register/)<br><br>
