@@ -1,11 +1,10 @@
 ## Try on Initializ
-[![Kubeday India](https://res.cloudinary.com/daosik5yi/image/upload/f_auto,q_auto/pntsnjpa1sxbc2d02q9n)](http://console.dev.initializ.ai/create-app/?clone=https://github.com/initializ-templates/Developer-portfolio-template&repo_name=Developer-portfolio&description=♾️%20customizable%20Developer%20Portfolio%20Template&github=true)
 
 ## On Dev 
-[![Kubeday India](https://res.cloudinary.com/daosik5yi/image/upload/f_auto,q_auto/pntsnjpa1sxbc2d02q9n)](http://console.dev.initializ.ai/create-app/?clone=https://github.com/initializ-templates/Developer-portfolio-template&repo_name=Developer-portfolio&description=♾️%20customizable%20Developer%20Portfolio%20Template&github=true)
+[![Kubeday India](https://res.cloudinary.com/daosik5yi/image/upload/f_auto,q_auto/pntsnjpa1sxbc2d02q9n)](https://console.dev.initializ.ai/create-app/?clone=https://github.com/initializ-templates/Developer-portfolio-template&repo_name=Developer-portfolio&description=♾️%20customizable%20Developer%20Portfolio%20Template&github=true)
 
 ## On Prod 
-[![Kubeday India](https://res.cloudinary.com/daosik5yi/image/upload/f_auto,q_auto/pntsnjpa1sxbc2d02q9n)](http://console.initializ.ai/create-app/?clone=https://github.com/initializ-templates/Developer-portfolio-template&repo_name=Developer-portfolio&description=♾️%20customizable%20Developer%20Portfolio%20Template&github=true)
+[![Kubeday India](https://res.cloudinary.com/daosik5yi/image/upload/f_auto,q_auto/pntsnjpa1sxbc2d02q9n)](https://console.initializ.ai/create-app/?clone=https://github.com/initializ-templates/Developer-portfolio-template&repo_name=Developer-portfolio&description=♾️%20customizable%20Developer%20Portfolio%20Template&github=true)
 
 ## Prerequisite 
 ### Must have an Account on [Initializ.ai](https://console.initializ.ai/register/)<br><br>
